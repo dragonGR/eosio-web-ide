@@ -11,7 +11,6 @@ We built this project with ease of use and simplicity in mind. It can be used by
 We hope you will find this project useful and welcome feedback on future improvements.
 
 # Setup
-
 1. Fork this repo to your personal GitHub account so that you can save your work into your personal Github account.
 
 2. Point your browser to the following URL https://gitpod.io/#https://github.com/dragonGR/eosio-web-ide to start the IDE. You will be automatically prompted to create a Gitpod account (all types of Gitpod accounts (including free) will work). You can also choose to provide multiple developers push access to your personal github fork of this repo to collaborate with them (one developer working on the smart contract (C++) while the other working on the front-end decentralized application (EOSJS), etc.). Each such developer sharing access to the forked repo will get their own copy of the EOSIO blockchain components to enable independent development.
