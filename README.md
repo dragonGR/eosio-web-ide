@@ -49,7 +49,6 @@ cleos set abi talk talk.abi
 ```
 
 ## Creating users and using the contract
-
 Run this in a terminal:
 ```
 cleos create account eosio bob EOS6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV
